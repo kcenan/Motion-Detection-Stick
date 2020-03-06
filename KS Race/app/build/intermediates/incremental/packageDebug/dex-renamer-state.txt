@@ -1,0 +1,7 @@
+#Wed May 31 21:11:14 EEST 2017
+base.0=/Users/sideyilmaz/Desktop/Koc/Elec 491/Ehran Game/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dc5fdde82e020249947d2d625cb14a72609f3855
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/sideyilmaz/Desktop/Koc/Elec 491/Ehran Game/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7b3147b09078e2ea595ec39ca40572d4773a66a1/classes.dex
+base.1=/Users/sideyilmaz/Desktop/Koc/Elec 491/Ehran Game/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7b3147b09078e2ea595ec39ca40572d4773a66a1
+file.0=/Users/sideyilmaz/Desktop/Koc/Elec 491/Ehran Game/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dc5fdde82e020249947d2d625cb14a72609f3855/classes.dex

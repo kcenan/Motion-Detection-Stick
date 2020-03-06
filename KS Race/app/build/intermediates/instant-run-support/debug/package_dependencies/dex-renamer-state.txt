@@ -1,0 +1,4 @@
+#Wed May 31 20:55:22 EEST 2017
+base.0=/Users/sideyilmaz/Desktop/Koc/Elec 491/Ehran Game/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_c1bfec63c3e699c315e4d135335b3752a549d372
+renamed.0=classes.dex
+file.0=/Users/sideyilmaz/Desktop/Koc/Elec 491/Ehran Game/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_c1bfec63c3e699c315e4d135335b3752a549d372/classes.dex

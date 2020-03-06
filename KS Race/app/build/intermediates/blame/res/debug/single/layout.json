@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/sideyilmaz/Desktop/Koc/Elec 491/Ehran Game/app/build/intermediates/res/merged/debug/layout/device_name.xml",
+        "source": "/Users/sideyilmaz/Desktop/Koc/Elec 491/Ehran Game/app/src/main/res/layout/device_name.xml"
+    },
+    {
+        "merged": "/Users/sideyilmaz/Desktop/Ehran Game/app/build/intermediates/res/merged/debug/layout/device_list.xml",
+        "source": "/Users/sideyilmaz/Desktop/Ehran Game/app/src/main/res/layout/device_list.xml"
+    },
+    {
+        "merged": "/Users/sideyilmaz/Downloads/Arduino Sensors1/app/build/intermediates/res/merged/debug/layout/device_name.xml",
+        "source": "/Users/sideyilmaz/Downloads/Arduino Sensors1/app/src/main/res/layout/device_name.xml"
+    },
+    {
+        "merged": "/Users/sideyilmaz/Downloads/Arduino Sensors1/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/sideyilmaz/Downloads/Arduino Sensors1/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/sideyilmaz/Desktop/Ehran Game/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/sideyilmaz/Desktop/Ehran Game/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/sideyilmaz/Downloads/Arduino Sensors1/app/build/intermediates/res/merged/debug/layout/device_list.xml",
+        "source": "/Users/sideyilmaz/Downloads/Arduino Sensors1/app/src/main/res/layout/device_list.xml"
+    },
+    {
+        "merged": "/Users/sideyilmaz/Desktop/Koc/Elec 491/Ehran Game/app/build/intermediates/res/merged/debug/layout/device_list.xml",
+        "source": "/Users/sideyilmaz/Desktop/Koc/Elec 491/Ehran Game/app/src/main/res/layout/device_list.xml"
+    },
+    {
+        "merged": "/Users/sideyilmaz/Desktop/Ehran Game/app/build/intermediates/res/merged/debug/layout/device_name.xml",
+        "source": "/Users/sideyilmaz/Desktop/Ehran Game/app/src/main/res/layout/device_name.xml"
+    },
+    {
+        "merged": "/Users/sideyilmaz/Desktop/Koc/Elec 491/Ehran Game/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/sideyilmaz/Desktop/Koc/Elec 491/Ehran Game/app/src/main/res/layout/activity_main.xml"
+    }
+]

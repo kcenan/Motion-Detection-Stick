@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/sideyilmaz/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/sideyilmaz/Desktop/Koc/Elec 491/Ehran Game/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_c1bfec63c3e699c315e4d135335b3752a549d372/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sideyilmaz/Desktop/Koc/Elec 491/Ehran Game/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c03d397b6ad6a7457d6e1ef033933138c225904">
+        <dex dex="/Users/sideyilmaz/Desktop/Koc/Elec 491/Ehran Game/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7b3147b09078e2ea595ec39ca40572d4773a66a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sideyilmaz/Desktop/Koc/Elec 491/Ehran Game/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/sideyilmaz/Desktop/Koc/Elec 491/Ehran Game/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dc5fdde82e020249947d2d625cb14a72609f3855/classes.dex" />
+    </item>
+
+</items>
