@@ -1,0 +1,7 @@
+#Wed May 31 21:10:12 EEST 2017
+base.0=/Users/sideyilmaz/Downloads/Arduino Sensors1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2bc7275854f9aeea017a717ee9340d84d5be61b7
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/sideyilmaz/Downloads/Arduino Sensors1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fa3c72b3c6a63b7d3103e3b82351dee1adda0876/classes.dex
+base.1=/Users/sideyilmaz/Downloads/Arduino Sensors1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fa3c72b3c6a63b7d3103e3b82351dee1adda0876
+file.0=/Users/sideyilmaz/Downloads/Arduino Sensors1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2bc7275854f9aeea017a717ee9340d84d5be61b7/classes.dex

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/sideyilmaz/Downloads/Arduino Sensors1/app/build/intermediates/res/merged/debug/raw/wallah.mp3",
+        "source": "/Users/sideyilmaz/Downloads/Arduino Sensors1/app/src/main/res/raw/wallah.mp3"
+    },
+    {
+        "merged": "/Users/sideyilmaz/Downloads/Arduino Sensors1/app/build/intermediates/res/merged/debug/raw/can.mp3",
+        "source": "/Users/sideyilmaz/Downloads/Arduino Sensors1/app/src/main/res/raw/can.mp3"
+    },
+    {
+        "merged": "/Users/sideyilmaz/Downloads/Arduino Sensors1/app/build/intermediates/res/merged/debug/raw/tarja.mp3",
+        "source": "/Users/sideyilmaz/Downloads/Arduino Sensors1/app/src/main/res/raw/tarja.mp3"
+    },
+    {
+        "merged": "/Users/sideyilmaz/Downloads/Arduino Sensors1/app/build/intermediates/res/merged/debug/raw/shape.mp3",
+        "source": "/Users/sideyilmaz/Downloads/Arduino Sensors1/app/src/main/res/raw/shape.mp3"
+    },
+    {
+        "merged": "/Users/sideyilmaz/Downloads/Arduino Sensors1/app/build/intermediates/res/merged/debug/raw/friends.mp3",
+        "source": "/Users/sideyilmaz/Downloads/Arduino Sensors1/app/src/main/res/raw/friends.mp3"
+    },
+    {
+        "merged": "/Users/sideyilmaz/Downloads/Arduino Sensors1/app/build/intermediates/res/merged/debug/raw/mor.mp3",
+        "source": "/Users/sideyilmaz/Downloads/Arduino Sensors1/app/src/main/res/raw/mor.mp3"
+    },
+    {
+        "merged": "/Users/sideyilmaz/Downloads/Arduino Sensors1/app/build/intermediates/res/merged/debug/raw/magic.mp3",
+        "source": "/Users/sideyilmaz/Downloads/Arduino Sensors1/app/src/main/res/raw/magic.mp3"
+    },
+    {
+        "merged": "/Users/sideyilmaz/Downloads/Arduino Sensors1/app/build/intermediates/res/merged/debug/raw/sugar.mp3",
+        "source": "/Users/sideyilmaz/Downloads/Arduino Sensors1/app/src/main/res/raw/sugar.mp3"
+    },
+    {
+        "merged": "/Users/sideyilmaz/Downloads/Arduino Sensors1/app/build/intermediates/res/merged/debug/raw/alliswell.mp3",
+        "source": "/Users/sideyilmaz/Downloads/Arduino Sensors1/app/src/main/res/raw/alliswell.mp3"
+    },
+    {
+        "merged": "/Users/sideyilmaz/Downloads/Arduino Sensors1/app/build/intermediates/res/merged/debug/raw/lost.mp3",
+        "source": "/Users/sideyilmaz/Downloads/Arduino Sensors1/app/src/main/res/raw/lost.mp3"
+    },
+    {
+        "merged": "/Users/sideyilmaz/Downloads/Arduino Sensors1/app/build/intermediates/res/merged/debug/raw/gameof.mp3",
+        "source": "/Users/sideyilmaz/Downloads/Arduino Sensors1/app/src/main/res/raw/gameof.mp3"
+    }
+]

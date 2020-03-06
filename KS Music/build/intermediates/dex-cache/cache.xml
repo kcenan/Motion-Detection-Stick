@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/sideyilmaz/Downloads/Arduino Sensors1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/sideyilmaz/Downloads/Arduino Sensors1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fa3c72b3c6a63b7d3103e3b82351dee1adda0876/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sideyilmaz/Downloads/Arduino Sensors1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="146c95848a2d102db4f08ad7995735bf8bdf06f2">
+        <dex dex="/Users/sideyilmaz/Downloads/Arduino Sensors1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2bc7275854f9aeea017a717ee9340d84d5be61b7/classes.dex" />
+    </item>
+
+</items>
